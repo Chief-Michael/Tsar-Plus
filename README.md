@@ -13,4 +13,4 @@ This mod adds 3 crafting ingredients and 31 new items that will new enchantments
 6. Delete the zip file
 
 #### More Information
-[Item_List.md] - contains the names of all of the items added as well as their effects
+[ItemList.md](ItemList.md) - contains the names of all of the items added as well as their effects
