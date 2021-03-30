@@ -1,5 +1,5 @@
 ## Recipe Guide
-Recipes in this mod all require the use of an alchemy station. Enchantment items always follow the same pattern for recipes: Pure Tsar Elixir, "Item Type" Ingredient, "Modifier Type" Ingredient. For example, "Burning Tsar Resin" requires: [Pure Tsar Elixir, Copal, Seared Root] to produce.
+Recipes in this mod all require the use of an alchemy station. Enchantment items always follow the same pattern for recipes: Pure Tsar Elixir, "Item Type" Ingredient, "Modifier Type" Ingredient. For example, "Burning Tsar Resin" requires: [Pure Tsar Elixir, Copal, Seared Root] to produce. Copal, Petrified Wood, Gold Ingot, Tsar Stone, and Peacemaker Elixir have all been editted to include the "Ingredient Alch" tag.
 
 
 #### Ingredient Recipes
