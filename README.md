@@ -1,7 +1,7 @@
 # Tsar-Plus
 **by Chief**
 
-This mod adds 3 crafting ingredients and 31 new items that will new enchantments onto your weapon or armor on use. They are designed to be an expensive late game supplement with [New Game Plus](https://www.nexusmods.com/outward/mods/181) and [RemoveEnchantLimit](https://www.nexusmods.com/outward/mods/206?tab=description) in mind, but neither of those two mods are needed to this one to function.
+This mod adds 3 crafting ingredients and 31 new items that will add new enchantments onto your weapon or armor on use. They are designed to be an expensive late game supplement with [New Game Plus](https://www.nexusmods.com/outward/mods/181) and [RemoveEnchantLimit](https://www.nexusmods.com/outward/mods/206?tab=description) in mind, but neither of those two mods are needed to this one to function.
 
 #### Using enchantment items
 If the item is for weapon use, simply equip the weapon you want to enchant and use the varnish or resin the same way as you would normally eat food from your inventory. If the item is for armor use, simply equip the chest armor you want to enchant and use the wax or oil the same way as you would normally eat food from your inventory. If you do not have chest armor it will attempt to apply the enchantment to your helmet. If you do not have a helmet or chest armor on, it will apply the enchantment to your boots. **If you did not install RemoveEnchantLimit and have an already enchanted weapon or armor in the slot it checks, or if you do not have any weapon equipped when using varnish/resin or not have any armor equipped when using wax/oil, the enchantment item will be destroyed.**
