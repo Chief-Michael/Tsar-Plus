@@ -6,6 +6,7 @@ Recipes in this mod all require the use of an alchemy station. Enchantment items
 - Gold Tincture: [Gold Ingot, Gold Ingot, Gold Ingot, Gold Ingot]
 - Purified Gold Tincture: [Gold Tincture, Gold Tincture, Gold Tincture, Gold Tincture]
 - Pure Tsar Elixir: [Tsar Stone, Purified Gold Tincture, Purified Gold Tincture, Purified Gold Tincture]
+- Tsar Stone: [Tsar Fragment, Tsar Fragment, Tsar Fragment, Tsar Fragment]
 
 #### Item Type Ingredients
 - Varnish: Crystal Powder
