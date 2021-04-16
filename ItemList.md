@@ -3,6 +3,7 @@
 - Gold Tincture
 - Purified Gold Tincture
 - Pure Tsar Elixir
+- Tsar Fragment
 
 #### Enchantment Varnishes (Enchants Weapons)
 - Tsar Varnish (+5 physical damage)
